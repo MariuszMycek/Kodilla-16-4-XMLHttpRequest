@@ -1,1 +1,1 @@
-https://mariuszmycek.github.io/Kodilla-16-4/
+https://mariuszmycek.github.io/Kodilla-16-4-XMLHttpRequest/
